@@ -1,2 +1,2 @@
 #!/bin/bash
-hown -R betty:holberton .
+hown -hR betty:holberton .
